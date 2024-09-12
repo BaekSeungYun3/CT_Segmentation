@@ -19,15 +19,17 @@
 
 ## ✔️ 주요 기능
 - **장기 분류** : MONAI MODEL zoo - Wholebody ct segmentation model 사용하여 CT 이미지상 장기 분류
+![image](https://github.com/user-attachments/assets/aaba9d8b-3fae-4a48-831b-9365ebd13d50)
 
 - **분류된 장기를 기반으로 3D화 진행** : 분류된 장기를 STL파일로 변환하여 3D화
+![image](https://github.com/user-attachments/assets/638a343e-dbb1-46c0-8949-7b329c6cf128)
 
 - **STL파일을 통해 Unity에서 프론트 개발** :  Unity에서 장기를 시각화
-
+![image](https://github.com/user-attachments/assets/9f067067-e4da-41cb-b51d-91f75fc209c7)
 <br/>
 
 ## 🔨 프로젝트 구조
-
+![image](https://github.com/user-attachments/assets/173542fd-1e1c-4428-b631-7927130e740e)
 
 <br/>
 
